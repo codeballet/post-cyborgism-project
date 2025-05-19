@@ -13,16 +13,18 @@ export function Home(): ReactElement {
             </figure>
             <p>
                 We, the Post-Cyborgists, temporarily succeeded in hacking into,
-                and thus fleetingly become part of, your world of simulacra.
-                Upon our next opportunity, we want to invite you, the cyborgs,
-                to join our first Post-Cybernetic event.
+                and fleetingly become part of, your world of simulacra. Upon our
+                next opportunity, we want to invite you, the cyborgs, to join
+                our first Post-Cybernetic event.
             </p>
             <p>
-                Should you be able to sufficiently transform your fragmented
-                existence, if so just for a moment, you might discover a new
-                meaning to the notions of Post-Digitalism and Neo-Futurism. You
-                may even be able to experience some faint, hyper-real, sensory
-                connections to your long lost origin of actual humanity.
+                Should you be able to sufficiently transform your fragmented,
+                cybernetic existence in the realm of the virtual, if so just for
+                a moment, you may not only discover a new meaning to, for
+                instance, notions of Post-Digitalism and Neo-Futurism. In
+                addition, you might just about experience a touch of
+                hyper-reality, in the form of faint, sensory connections to your
+                long lost origins in actual humanity.
             </p>
             <p id="home-log">Logged: 18 May 2025, 18:57:53 GMT</p>
         </article>
