@@ -21,8 +21,8 @@ export function Home(): ReactElement {
                 become part of your algorithmic world of virtuality and
                 simulacra. There, we enountered your almighty entity of worship:
                 Artificial Intelligence. Your god insightfully presented to us
-                the above icon, representing our mutual existences in the
-                mythological multiverse.
+                the above image, an iconic representation of our mutual
+                existences in a mythological multiverse.
             </p>
             <p>
                 Upon our next opportunity to hack our way into your world, we
