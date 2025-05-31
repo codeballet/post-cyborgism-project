@@ -26,8 +26,8 @@ export function Home(): ReactElement {
             </p>
             <p>
                 Upon our next opportunity to hack our way into your world, we
-                want to invite you, the cyborgs, to join our first
-                Post-Cybernetic event.
+                want to invite you, the post-humans and the cyborgs, to join our
+                first Post-Cybernetic event.
             </p>
             <p>
                 Should you be able to sufficiently transform your fragmented,
