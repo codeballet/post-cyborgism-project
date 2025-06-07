@@ -14,7 +14,7 @@
         width: 90vw;
         height: calc(90vw * 3 / 2);
         max-height: 70vh;
-        padding-bottom: .3rem;
+        padding-bottom: 0.4rem;
 
         img {
             max-width: 100%;
